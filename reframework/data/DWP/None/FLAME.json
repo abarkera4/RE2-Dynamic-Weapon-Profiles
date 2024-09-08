@@ -1,0 +1,24 @@
+{
+
+    "PowerRate_A": 1.0,
+    "WinceRate_A": 1.0,
+    "BreakRate_A": 1.0,
+    "PowerRate": 1.0,
+    "WinceRate": 1.0,
+    "BreakRate": 1.0,
+    "FireBulletType": 3,
+    "HoldAddFocus": 0.0,
+    "MoveSubFocus": -1000.0,
+    "ShootSubFocus": 0.0,
+    "WatchSubFocus": 0.0,
+    "KeepFitLimitFocus": 100.0,
+    "RadiateLength" : 8.0,
+    "RecoilHorizontalMin" : -0.005,
+    "RecoilHorizontalMax" : 0.01,
+    "RecoilVerticalMin" : -0.005,
+    "RecoilVerticalMax" : 0.01,
+    "PartsIndex": 15,
+    "Capacity" : 400,
+    "InfiniteAmmo": false
+
+}
